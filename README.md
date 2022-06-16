@@ -20,4 +20,4 @@ AUTOWARE_COMPILE_WITH_CUDA=1 colcon build --cmake-args -DCMAKE_BUILD_TYPE=Releas
 
 ## Todo
 * Add loop closure detection on backend
-* Node generating Real-time vector map for in-door navigation
+* Node generating Real-time waypoints for in-door navigation
